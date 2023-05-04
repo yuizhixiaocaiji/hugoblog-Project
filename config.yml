@@ -1,0 +1,8 @@
+baseURL: http://example.org/
+languageCode: en-us
+title: My New Hugo Site
+theme: "PaperMod"
+params:
+  # defaultTheme: light
+  # defaultTheme: dark
+  defaultTheme: auto # 根据浏览器主题自动切换
